@@ -23,3 +23,5 @@ Membuat Repository Baru
 7. untuk agar bisa orang lain bisa merubah (push)
 	
 catattttttttt.......
+
+Add bagus
